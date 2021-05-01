@@ -24,7 +24,7 @@ class StoryBrain {
         choice2: ''),
     Story(
         storyTitle:
-            'As you smash through the guardrail and careen towards the jagged rocks below you reflect on the dubious wisdom of stabbing someone while they are driving a car you are in.',
+            'As you smash through the guardrail and careen towards the jagged rocks below, you reflect on the dubious wisdom of stabbing someone while they are driving a car you are in.',
         choice1: 'Restart',
         choice2: ''),
     Story(
